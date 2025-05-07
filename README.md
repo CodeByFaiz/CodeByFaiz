@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Mateen Shahzad</h1>
+<h1 align="center">Hi 👋, I'm Faiz Shahzad</h1>
 <h3 align="center">Compiling my code... Please wait! 👀</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> -->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/CodeByMateen/CodeByMateen/main/images/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/CodeByFaiz/CodeByFaiz/main/images/hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codebymateen&label=Profile%20views&color=0e75b6&style=flat" alt="codebymateen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codebyfaiz&label=Profile%20views&color=0e75b6&style=flat" alt="codebyfaiz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on Fatify.js, Nest.js, TypeScript, Python and Prisma ORM.
 
-- 👨‍💻 All of my projects are available at [https://codebymateen.github.io](https://codebymateen.github.io)
+- 👨‍💻 All of my projects are available at [https://codebyfaiz.github.io](https://codebyfaiz.github.io)
 
 - 👯 I am looking to collaborate on Backend Development, AI/ML and Data Engineering Projects.
 
@@ -17,7 +17,7 @@
 
 - 📢 I Love to learn new technologies and keep myself updated with latest technology trends.
 
-- 📫 How to reach me **mateenshahzad777@gmail.com**
+- 📫 How to reach me **faizshahzad01@gmail.com**
 
 - ⚡ Fun fact **I think I am funny 😁**
 
@@ -25,10 +25,10 @@
 ## Connect with me
 
 <span align="left">
-<a href="https://linkedin.com/in/mateenshahzad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateenshahzad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/faizshahzad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizshahzad" height="30" width="40" /></a>
 </span>
 <span align="left">
-<a href="https://replit.com/@CodeWithMateen" target="blank"><img align="center" src="https://raw.githubusercontent.com/CodeByMateen/CodeByMateen/main/images/replit.svg" alt="mateenshahzad" height="60" width="90" /></a>
+<a href="https://replit.com/@CodeByFaiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/CodeByFaiz/CodeByFaiz/main/images/replit.svg" alt="faizshahzad" height="60" width="90" /></a>
 </span>
 
 
@@ -39,7 +39,7 @@
 
 
 ## GitHub Trophies 🏆
-![](https://github-profile-trophy.vercel.app/?username=codebymateen&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=codebyfaiz&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 
 ## Random Dev Quote ✍
@@ -49,9 +49,9 @@
 ## Github Analytics
 
 <p align="center">
-	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codebymateen&layout=compact&langs_count=8&theme=algolia"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codebymateen&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=codebymateen&show_icons=true&locale=en&layout=demo&theme=algolia"/>
+	<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codebyfaiz&layout=compact&langs_count=8&theme=algolia"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codebyfaiz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=codebyfaiz&show_icons=true&locale=en&layout=demo&theme=algolia"/>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%2300BFFF&size=28&duration=3500&center=true&vCenter=true&lines=Glad+to+see+you+here!;Thanks+for+visiting!)](https://git.io/typing-svg)
